@@ -1,0 +1,78 @@
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,190 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:19,192 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:46,184 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,797 - root - INFO - ****************** Test_002_DDT_Login **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:10:55,798 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:06,977 - root - INFO - *** Passed ***
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,337 - root - INFO - ****************** Test_004_SearchCustomerByEmail **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:27,338 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,996 - root - INFO - ****************** Test_005_SearchCustomerByName **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-11 07:11:37,998 - root - INFO - ****************** Verifying Home Page Tittle **********************
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,108 - root - INFO - ******** Test_006_AddDiscount *********
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:08,111 - root - INFO - ****************** Verifying Adding New Discount **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
+2021-01-14 14:01:22,597 - root - INFO - ****************** Verifying Login Test **********************
